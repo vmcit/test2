@@ -73,8 +73,8 @@ function isExcelFile(fileName) {
 // sua code lan 1 nhanh master
 // sua lan 4 cuongvm
 // sua lan 3 vmcit94
-<<<<<<< HEAD
-// sua lan 6 vmcit94
-=======
 // sua lan 5 cuongvm
->>>>>>> cuongvm
+// sua lan 6 vmcit94
+
+
+
