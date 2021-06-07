@@ -69,3 +69,5 @@ function isExcelFile(fileName) {
     if (validExts.indexOf(fileExt) < 0) return false;
     else return true;
 }
+
+// sua code lan 1 nhanh master
