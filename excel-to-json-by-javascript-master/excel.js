@@ -76,12 +76,3 @@ function isExcelFile(fileName) {
 // sua lan 6 vmcit94
 // chinh lan 7 cuongvm<<<<<<< .mine
 // chinh lan 7 cuongvm
-
-
-
-=======
-// sua lan 6 vmcit94
-
-
-
->>>>>>> .theirs
