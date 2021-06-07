@@ -36,10 +36,10 @@ document.getElementById('button').addEventListener("click", () => {
                     var isValidDataStruct = true;
                     XL_row_object.forEach(function (data) {
                                 Object.keys(data).forEach(function (key) {
-                                    if (key === 'undefined') isValidDataStruct = false;
+                                    if (key == 'undefined') isValidDataStruct = false;
                                 })
-                                // data.status = 1;
-                                // data.certificateId = 0;
+                                data.status = 1;
+                                data.certificateId = 0;
                             });
                     if (!isValidDataStruct) {
                         toastr.error('Cấu trúc file excel không hợp lệ.');
